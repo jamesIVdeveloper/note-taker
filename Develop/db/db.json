@@ -1,8 +1,29 @@
 {
   "notes": [
     {
+      "id": "0",
       "title": "Test Title",
       "note": "Test Note"
+    },
+    {
+      "title": "Post Note",
+      "note": "Post test",
+      "id": "1"
+    },
+    {
+      "title": "Another note",
+      "text": "another one",
+      "id": "2"
+    },
+    {
+      "title": "new note",
+      "text": "new note\n",
+      "id": "3"
+    },
+    {
+      "title": "Groceries",
+      "text": "Get groceries",
+      "id": "4"
     }
   ]
 }
